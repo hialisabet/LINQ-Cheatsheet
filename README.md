@@ -1,1 +1,3 @@
 # LINQ Cheatsheet
+
+## Any
