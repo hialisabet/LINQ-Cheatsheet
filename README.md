@@ -1,5 +1,11 @@
 # LINQ Cheatsheet
 
+# Table of Contents
+1. [Any](#Any)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
 ## Any
 1. **Purpose and Usage**: The `Any` method is used to determine if a sequence contains any elements. It returns a boolean value (`true` if any element exists; otherwise, `false`). The method can be called without any arguments to simply check if the sequence has any elements, or you can provide a predicate to specify a condition for the elements.
 
