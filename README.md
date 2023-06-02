@@ -2,9 +2,30 @@
 
 # Table of Contents
 1. [Any](#Any)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+2. [All](#All)
+3. [Count](#Count)
+4. [Contains](#Contains)
+5. [OrderBy](#OrderBy)
+6. [ThenBy](#ThenBy)
+7. [Min & Max](#Min--Max)
+8. [Average](#Average)
+9. [Sum](#Sum)
+10. [ElementAt](#ElementAt)
+11. [First & Last](#First--Last)
+12. [Where](#Where)
+13. [Take, TakeLast & TakeWhile](#take-takelast--takewhile))
+14. [Skip](#Skip)
+15. [OfType](#OfType)
+16. [Distinct](#Distinct)
+17. [Prepend & Append](#prepend--append))
+18. [Concat & Union](#concat--union))
+19. [ToArray, ToList, ToDictionary & ToHashset](#toarray-tolist-todictionary--tohashset))
+20. [Select & SelectMany](#select--selectmany))
+21. [Empty, Repeat & Range](#empty-repeat--range)))
+22. [GroupBy](#GroupBy))
+23. [Intersect & Except](#intersect--except)))
+24. [Aggregate](#Aggregate))
+25. [Zip](#Zip))
 
 ## Any
 1. **Purpose and Usage**: The `Any` method is used to determine if a sequence contains any elements. It returns a boolean value (`true` if any element exists; otherwise, `false`). The method can be called without any arguments to simply check if the sequence has any elements, or you can provide a predicate to specify a condition for the elements.
